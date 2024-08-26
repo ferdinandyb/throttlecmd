@@ -1,6 +1,5 @@
 /*
 Copyright © 2024 Bence Ferdinandy <bence@ferdinandy.com>
-
 */
 package main
 
