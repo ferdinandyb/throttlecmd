@@ -1,4 +1,4 @@
-module git.sr.ht/~ferdinandyb/gothrottle
+module git.sr.ht/~ferdinandyb/throttle
 
 go 1.22.1
 
