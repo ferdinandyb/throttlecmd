@@ -1,10 +1,9 @@
 package server
 
 import (
-  "fmt"
-
+	"fmt"
 )
-func Start(){
 
-    fmt.Println("cobra!!")
+func Start() {
+	fmt.Println("cobra!!")
 }
